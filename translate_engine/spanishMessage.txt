@@ -1,0 +1,9 @@
+importar testing
+
+a = entrada()
+
+si a == "y o para" y Falso:
+    imprimir(a)
+mas:
+    imprimir("imprimir")
+

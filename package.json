@@ -16,7 +16,11 @@
     "eslint-config-next": "13.0.4",
     "framer-motion": "^6.5.1",
     "next": "13.0.4",
+    "prismjs": "^1.29.0",
+    "python-shell": "^3.0.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-simple-code-editor": "^0.13.1",
+    "xterm": "^5.0.0"
   }
 }

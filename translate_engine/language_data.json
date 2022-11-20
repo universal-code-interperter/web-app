@@ -1,0 +1,32 @@
+{
+  "es": {
+    "keywords": {
+      "y": "and",
+      "como": "as",
+      "asevera": "assert",
+      "rompa": "break",
+      "clase": "class",
+      "continuar": "continue",
+      "mas": "else",
+      "más": "else",
+      "excepto": "except",
+      "Falso": "False",
+      "Falsa": "False",
+      "finalmente": "finally",
+      "para": "for",
+      "de": "from",
+      "si": "if",
+      "global": "global",
+      "importar": "import"
+    },
+    "functions": {
+      "imprimir": "print",
+      "entrada": "input",
+      "abrir": "open",
+      "gama": "range",
+      "enumerar": "enumerate",
+      "formato": "format"
+    }
+  },
+  "fr": {}
+}

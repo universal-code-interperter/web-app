@@ -1,0 +1,140 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 2915px; width: 2915px; height: 2135px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 2915px;
+	height: 2135px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 2945px;
+	height: 2135px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 2945px;
+	height: 2135px;
+}
+
+
+#polygon_1 {
+	top: 1595px;
+	left: 0px;
+	width: 2945px;
+	height: 540px;
+}
+
+#content {
+	top: 692px;
+	left: 657px;
+	width: 1012.34px;
+	height: 465.59px;
+}
+#btn {
+	top: 353px;
+	left: 6px;
+	width: 253.6px;
+	height: 112.59px;
+}
+
+#rectangle_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 253.6px;
+	height: 112.59px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,255,255,1);
+}
+
+
+#start {
+	top: 17px;
+	left: 55px;
+	width: 227.5px;
+	height: 126.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 45px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#press_start_to_begin_coding {
+	top: 201px;
+	left: 6px;
+	width: 999.85px;
+	height: 187.09px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#welcome {
+	top: 0px;
+	left: 0px;
+	width: 1117.34px;
+	height: 191.31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#uci_logo2_1 {
+	top: 228px;
+	left: 1561px;
+	width: 1049px;
+	height: 1433px;
+}
+
+
+#about_hack_the_change {
+	top: 76px;
+	left: 2367px;
+	width: 833px;
+	height: 173px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-decoration: underline;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+
