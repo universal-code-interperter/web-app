@@ -12,15 +12,21 @@
     "@chakra-ui/react": "^2.4.1",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "axios": "^1.1.3",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.4",
     "framer-motion": "^6.5.1",
+    "jspython-interpreter": "^2.1.11",
     "next": "13.0.4",
     "prismjs": "^1.29.0",
     "python-shell": "^3.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-simple-code-editor": "^0.13.1",
-    "xterm": "^5.0.0"
+    "xterm": "^5.0.0",
+    "xterm-for-react": "^1.0.4"
+  },
+  "webpack": {
+    "child_process": false
   }
 }
