@@ -18,7 +18,8 @@ export default function Home() {
 <div id="content-container">
 <div id="_bg__frame_1" />
 <div id="rectangle_1" />
-<img src="skins/rectangle_2.jpg" id="rectangle_2" />
+{/* <img src="skins/rectangle_2.jpg" id="rectangle_2" /> */}
+<img src="https://uci-resources.s3.us-west-2.amazonaws.com/polygon_1.jpg" id="rectangle_2" />
 <img src="skins/polygon_1.jpg" id="polygon_1" />
 <div id="content">
   <div id="btn">
